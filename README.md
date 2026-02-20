@@ -82,4 +82,4 @@ MIT
 Developed by Santiago Jimenez with the assistance of Claude AI (Anthropic).
 
 This project was created as a learning experience combining modern web technologies
-and demonstrating the integration between frontend, backend, and browser extensions.
+and demonstrating the integration between frontend, backend, and browser extensions
